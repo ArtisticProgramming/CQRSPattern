@@ -1,4 +1,9 @@
 git add .
-git commit -m ""
+
+git commit -m "update xmind files"
+
 git push --set-upstream  https://github.com/ArtisticProgramming/CQRSPattern.git
-username=ArtisticProgramming
+
+git pull  https://github.com/ArtisticProgramming/CQRSPattern.git
+
+username = ArtisticProgramming
