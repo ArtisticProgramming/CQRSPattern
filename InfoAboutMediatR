@@ -1,0 +1,13 @@
+-------------------------------------Deff between Request and Notification------------------------------
+Requests are for:
+1 request to 1 handler. Handler may or may not return a value
+
+Notifications are for:
+1 notification to n handlers. Handler may not return a value.
+
+In practical terms, requests are "commands", notifications are "events".
+Command would be directing MediatR to do something like
+"ApproveInvoiceCommand -> ApproveInvoiceHandler". Event would be
+notifications, like "InvoiceApprovedEvent ->
+SendThankYouEmailToCustomerHandler"
+----------------------------------------------------------------------------------------------------------
