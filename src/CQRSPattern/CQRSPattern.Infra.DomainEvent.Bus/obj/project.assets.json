@@ -216,6 +216,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "CQRSPattern.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "MediatR": "5.1.0"
+        },
+        "compile": {
+          "bin/placeholder/CQRSPattern.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRSPattern.Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -694,10 +707,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CQRSPattern.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CQRSPattern.Domain.Core/CQRSPattern.Domain.Core.csproj",
+      "msbuildProject": "../CQRSPattern.Domain.Core/CQRSPattern.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "CQRSPattern.Domain.Core >= 1.0.0",
       "MediatR >= 5.1.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -731,7 +750,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitProjects\\CQRSPattern\\src\\CQRSPattern\\CQRSPattern.Domain.Core\\CQRSPattern.Domain.Core.csproj": {
+              "projectPath": "D:\\GitProjects\\CQRSPattern\\src\\CQRSPattern\\CQRSPattern.Domain.Core\\CQRSPattern.Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
