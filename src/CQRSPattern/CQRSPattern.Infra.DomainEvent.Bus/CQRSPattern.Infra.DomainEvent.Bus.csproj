@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Bus\**" />
+    <Compile Remove="Commands\**" />
+    <Compile Remove="Events\**" />
+    <Compile Remove="Models\**" />
+    <EmbeddedResource Remove="Bus\**" />
+    <EmbeddedResource Remove="Commands\**" />
+    <EmbeddedResource Remove="Events\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <None Remove="Bus\**" />
+    <None Remove="Commands\**" />
+    <None Remove="Events\**" />
+    <None Remove="Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="5.1.0" />
+  </ItemGroup>
+
+</Project>

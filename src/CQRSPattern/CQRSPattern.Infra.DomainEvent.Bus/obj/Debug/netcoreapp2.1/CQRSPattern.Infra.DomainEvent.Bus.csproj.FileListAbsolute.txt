@@ -1,0 +1,9 @@
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.deps.json
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.dll
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.csprojAssemblyReference.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.csproj.CoreCompileInputs.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.AssemblyInfoInputs.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.AssemblyInfo.cs
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.pdb
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.dll
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.pdb

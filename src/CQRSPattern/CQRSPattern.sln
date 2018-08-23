@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSPattern", "CQRSPattern\CQRSPattern.csproj", "{DAD716DC-D925-4A9B-B7E3-421B9331F555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSPattern", "CQRSPattern\CQRSPattern.csproj", "{DAD716DC-D925-4A9B-B7E3-421B9331F555}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSPattern.Domain.Core", "CQRSPattern.Domain.Core\CQRSPattern.Domain.Core.csproj", "{9F66300B-3E71-4510-99EE-A801D9F2DA14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRSPattern.Infra.DomainEvent.Bus", "CQRSPattern.Infra.DomainEvent.Bus\CQRSPattern.Infra.DomainEvent.Bus.csproj", "{A3AC378F-34EB-49B9-876F-9C4D162CB4CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DAD716DC-D925-4A9B-B7E3-421B9331F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD716DC-D925-4A9B-B7E3-421B9331F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD716DC-D925-4A9B-B7E3-421B9331F555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F66300B-3E71-4510-99EE-A801D9F2DA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F66300B-3E71-4510-99EE-A801D9F2DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F66300B-3E71-4510-99EE-A801D9F2DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F66300B-3E71-4510-99EE-A801D9F2DA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AC378F-34EB-49B9-876F-9C4D162CB4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AC378F-34EB-49B9-876F-9C4D162CB4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AC378F-34EB-49B9-876F-9C4D162CB4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AC378F-34EB-49B9-876F-9C4D162CB4CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
