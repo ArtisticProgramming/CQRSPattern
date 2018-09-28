@@ -7,3 +7,6 @@ D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj
 D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.pdb
 D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.dll
 D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.pdb
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Domain.Core.dll
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\bin\Debug\netcoreapp2.1\CQRSPattern.Domain.Core.pdb
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Infra.DomainEvent.Bus\obj\Debug\netcoreapp2.1\CQRSPattern.Infra.DomainEvent.Bus.csproj.CopyComplete

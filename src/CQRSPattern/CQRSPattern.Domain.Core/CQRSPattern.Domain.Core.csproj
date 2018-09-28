@@ -11,11 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Notifications\" />
     <Folder Include="Models\" />
   </ItemGroup>
   
   <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="7.0.0" />
     <PackageReference Include="MediatR" Version="5.1.0" />
   </ItemGroup>
 

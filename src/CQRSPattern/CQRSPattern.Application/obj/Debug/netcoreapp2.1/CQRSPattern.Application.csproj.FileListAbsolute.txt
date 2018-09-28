@@ -1,0 +1,9 @@
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\bin\Debug\netcoreapp2.1\CQRSPattern.Application.deps.json
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\bin\Debug\netcoreapp2.1\CQRSPattern.Application.dll
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\bin\Debug\netcoreapp2.1\CQRSPattern.Application.pdb
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.csprojAssemblyReference.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.csproj.CoreCompileInputs.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.AssemblyInfoInputs.cache
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.AssemblyInfo.cs
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.dll
+D:\GitProjects\CQRSPattern\src\CQRSPattern\CQRSPattern.Application\obj\Debug\netcoreapp2.1\CQRSPattern.Application.pdb

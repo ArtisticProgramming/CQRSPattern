@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "FluentValidation/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        }
+      },
       "MediatR/5.1.0": {
         "type": "package",
         "compile": {
@@ -221,6 +233,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "FluentValidation": "7.0.0",
           "MediatR": "5.1.0"
         },
         "compile": {
@@ -233,6 +246,19 @@
     }
   },
   "libraries": {
+    "FluentValidation/7.0.0": {
+      "sha512": "l/VGEyMgysRgr6hGdVIYe/087xjSjID4NaQhHVS2yHqP/wyUB4txW15SxFijwSFtTHtzN9DPsysfKkU1gXURNA==",
+      "type": "package",
+      "path": "fluentvalidation/7.0.0",
+      "files": [
+        "fluentvalidation.7.0.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net45/FluentValidation.dll",
+        "lib/net45/FluentValidation.xml",
+        "lib/netstandard1.0/FluentValidation.dll",
+        "lib/netstandard1.0/FluentValidation.xml"
+      ]
+    },
     "MediatR/5.1.0": {
       "sha512": "Xt0a7rxi3L9Hqds8dATA+lLdo7k+g6vryACCDjzSRodXY7axISBhUOO0uY/94YN6aPw2sfBpBSF+t9gw2J2eLA==",
       "type": "package",
@@ -722,7 +748,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jafar\\.nuget\\packages\\": {},
+    "C:\\Users\\Glass\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -731,14 +757,14 @@
       "projectUniqueName": "D:\\GitProjects\\CQRSPattern\\src\\CQRSPattern\\CQRSPattern.Infra.DomainEvent.Bus\\CQRSPattern.Infra.DomainEvent.Bus.csproj",
       "projectName": "CQRSPattern.Infra.DomainEvent.Bus",
       "projectPath": "D:\\GitProjects\\CQRSPattern\\src\\CQRSPattern\\CQRSPattern.Infra.DomainEvent.Bus\\CQRSPattern.Infra.DomainEvent.Bus.csproj",
-      "packagesPath": "C:\\Users\\jafar\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Glass\\.nuget\\packages\\",
       "outputPath": "D:\\GitProjects\\CQRSPattern\\src\\CQRSPattern\\CQRSPattern.Infra.DomainEvent.Bus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Glass\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
